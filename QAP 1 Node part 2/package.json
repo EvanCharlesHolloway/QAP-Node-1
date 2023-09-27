@@ -1,0 +1,15 @@
+{
+  "name": "qap-1-node-part-2",
+  "version": "1.0.0",
+  "description": "Part 2 of QAP 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Evan Holloway",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
